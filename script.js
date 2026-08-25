@@ -14,10 +14,10 @@
 
 "use strict";
 
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
-const EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID";
-const EMAILJS_QUOTE_TEMPLATE_ID = "YOUR_QUOTE_TEMPLATE_ID";
-const EMAILJS_CONTACT_TEMPLATE_ID = "YOUR_CONTACT_TEMPLATE_ID";
+const EMAILJS_PUBLIC_KEY = "1DajYrxS-toAUmnNf";
+const EMAILJS_SERVICE_ID = "service_p4dypdp";
+const EMAILJS_QUOTE_TEMPLATE_ID = "template_1hhg4vf";
+const EMAILJS_CONTACT_TEMPLATE_ID = "template_zgwnsaf";
 
 document.documentElement.classList.add("js");
 
